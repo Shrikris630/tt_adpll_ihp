@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "all-digital pll"      # Project title
-  author:       "Shrikrishna Kaje"      # Your name
+  author:       "Shrikrishna Kaje"      # Your name 
   discord:      "792801"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "RTL design of a fully programmable all-digital pll"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
